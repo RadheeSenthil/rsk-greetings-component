@@ -1,0 +1,14 @@
+{
+  "name": "rsk-greetings-component",
+  "version": "0.1.0",
+  "description": "Greetings Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "greetings"
+  ],
+  "author": "Radhika Senthil Kumar",
+  "license": "ISC"
+}
