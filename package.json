@@ -1,6 +1,6 @@
 {
   "name": "rsk-greetings-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Greetings Component",
   "main": "index.js",
   "scripts": {
